@@ -1,0 +1,4 @@
+Utilizar o Search Dialog (CTRL + F no Windows):
+
+- Configurar conexões com o banco: pymysql
+- Atualizar o preço das apostas: precoJogo
